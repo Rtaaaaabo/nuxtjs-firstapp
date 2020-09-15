@@ -18,3 +18,7 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+## 個人的に
+
+- VueJS と NuxtJS がどういったものであるのかを触ってみるために作成してみた。
